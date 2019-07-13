@@ -9,4 +9,5 @@ full stack / security / java / spring / web / agile / mobile / leadership
 
 ### [Follow me on Twitter @abeacock](https://twitter.com/abeacock)
 
+
 This site is hosted on GitHub, if you want one then simply [follow these instructions](https://pages.github.com/)
