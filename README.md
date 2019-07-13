@@ -1,7 +1,11 @@
 # Andrew Beacock
 
-## [Read my blog](https://blog.andrewbeacock.com)
+![](https://2.bp.blogspot.com/-yfhWdRvgDZg/XSiGQxV8eQI/AAAAAAAABXg/OStuc9j2LXYlfORn2FALrcJRqFz3cnuPgCK4BGAYYCw/s113-pf/buddy-icon-cropped.png)
 
-## [View my LinkedIn Profile](https://www.linkedin.com/in/andrewbeacock/)
+## [Read my technical blog](https://blog.andrewbeacock.com)
+
+## [View my LinkedIn profile](https://www.linkedin.com/in/andrewbeacock/)
+
+## [Follow me on Twitter @abeacock](https://twitter.com/abeacock)
 
 This site is hosted on GitHub, if you want one then simply [follow these instructions](https://pages.github.com/)
