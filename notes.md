@@ -2,4 +2,4 @@
 title: Notes
 ---
 
-# Notes v2
+# Notes
