@@ -15,4 +15,4 @@ full stack / security / java / spring / web / agile / mobile / leadership
 
 ---
 
-This site is hosted on GitHub, if you want one then simply [follow these instructions](https://pages.github.com/)
+This site is hosted on GitHub Pages, if you want one then simply [follow these instructions](https://pages.github.com/)
