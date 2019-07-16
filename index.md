@@ -12,4 +12,6 @@ I'm a full stack Senior Software Engineer with 24 years of software development 
 
 ### [Follow me on Twitter @abeacock](https://twitter.com/abeacock)
 
+### [Email me info@andrewbeacock.com](mailto:info@andrewbeacock.com)
+
 <small>This site is hosted on GitHub Pages, if you want one then simply [follow these instructions](https://pages.github.com/)</small>
