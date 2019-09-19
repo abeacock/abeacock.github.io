@@ -1,5 +1,5 @@
 ---
-title: Andrew Beacock - Principle Software Engineer / Team Leader
+title: Andrew Beacock - Software Engineer / Team Leader
 ---
 
 full stack / security / java / spring / web / agile / mobile / leadership
