@@ -14,4 +14,4 @@ I'm a full stack principle software engineer with 24 years of software developme
 
 ### Email me <info@andrewbeacock.com>
 
-<br/><small>I'm hosting this website via my [GitHub respository](https://github.com/abeacock/), if you want to do the same then simply [follow these instructions](https://pages.github.com/).  The site is written in [GitHub-flavoured Markdown](https://guides.github.com/features/mastering-markdown/), edited using the excellent & free [Atom editor](https://atom.io/) with it's live Markdown preview & Git integration.</small>
+<br/><small>I'm hosting this website via my [GitHub repository](https://github.com/abeacock/), if you want to do the same then simply [follow these instructions](https://pages.github.com/).  The site is written in [GitHub-flavoured Markdown](https://guides.github.com/features/mastering-markdown/), edited using the excellent & free [Atom editor](https://atom.io/) with it's live Markdown preview & Git integration.</small>
