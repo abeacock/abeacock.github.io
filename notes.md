@@ -15,3 +15,8 @@ Goto `C:\tools\msys64` and run `msys2.exe`
 * [Update Powershell & .NET framework](https://docs.ansible.com/ansible/latest/user_guide/windows_setup.html#upgrading-powershell-and-net-framework)
 * create `/etc/ansible/hosts` and add `localhost`
 * `ansible all -m ping`
+
+### git
+To set your username and email address:
+`git config --global user.name "Andrew Beacock"`
+`git config --global user.email "email@address"`
