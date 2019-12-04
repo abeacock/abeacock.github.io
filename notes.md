@@ -17,6 +17,20 @@ Goto `C:\tools\msys64` and run `msys2.exe`
 * `ansible all -m ping`
 
 ### git
-To set your username and email address:
+Set your username and email address  
 `git config --global user.name "Andrew Beacock"`
 `git config --global user.email "email@address"`
+
+Save credentials locally  
+`git config credential.helper store`
+
+export GOPATH=/d/development/go  
+`go get github.com/abeacock/golang`
+`go install github.com/abeacock/golang/serve`
+
+### vim
+Add to .bash_profile `alias vi=vim`  
+Install vim-go plugin
+* `git clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go`
+* start vim
+* `:GoInstallBinaries`
