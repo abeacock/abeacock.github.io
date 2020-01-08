@@ -2,9 +2,9 @@
 title: Andrew Beacock - Software Engineer / Team Leader
 ---
 
-full stack / security / java / spring / web / agile / mobile / leadership
+full stack / security / java / spring / web / agile / leadership
 
-I'm a full stack principle software engineer with 24 years of software development experience. I've lead development teams, line-managed people, and solved business problems using my technical skills. I've followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing and test driven development.  I've been coding in Java since it was born back in 1996, but I'm experienced in other languages too. I've spent a chunk of my career building server-side mobile solutions but in recent years transitioned into building secure, fast, scalable web applications for the financial industry.
+I'm a full stack principle software engineer with 24 years of software development experience. I've lead development teams, line-managed people, and solved business problems using my technical skills. I've followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing and test driven development.  I've been coding in Java since it was born back in 1996, but I'm experienced in other languages too. I've spent a chunk of my career building server-side mobile solutions but in recent years transitioned into building secure, fast, scalable web applications for the financial industry. I've become a member of OWASP to help promote secure coding practices & recently moved into the retail industry assisting in migrating from a monolith to AWS microservices.
 
 ### Read my [technical blog](https://blog.andrewbeacock.com)
 
