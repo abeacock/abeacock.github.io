@@ -13,6 +13,9 @@ Goto `C:\tools\msys64` and run `msys2.exe`
 Install GCC stuff  
 `pacman -S mingw-w64-x86_64-toolchain`
 
+Install golang
+`pacman -S mingw-w64-x86_64-go`
+
 ### ansible
 * [Ansible on Windows msys2 script](https://gist.github.com/DaveB93/db94a6b310e08c928c0778f766562ab0#file-python3-install-ansible-on-msys2-sh)
 * [Update Powershell & .NET framework](https://docs.ansible.com/ansible/latest/user_guide/windows_setup.html#upgrading-powershell-and-net-framework)
