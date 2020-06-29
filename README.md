@@ -1,4 +1,4 @@
-## Andrew Beacock - Senior Software Engineer
-full stack / security / java / spring / web / agile / mobile / leadership
+## Andrew Beacock - Engineering Manager
+eng mgr / tech lead / full stack / java / agile / security / aws
 
 [View my website](https://www.andrewbeacock.com)
