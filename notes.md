@@ -2,7 +2,7 @@
 title: Notes
 ---
 
-## Chocolatey
+## [Chocolatey](https://chocolatey.org/)
 In an administrative Powershell console:  
 `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
 
@@ -10,7 +10,8 @@ Then from the same console run:
 `choco install chocolateygui`
 
 ## msys2
-Install msys2 via [Chocolatey](https://chocolatey.org/)  
+Install `msys2` via Chocolatey
+Set Windows environment variable: `MSYS2_PATH_TYPE=inherit`  
 Goto `C:\tools\msys64` and run `msys2.exe`
 
 * Update installed packages `pacman -Syu`
@@ -28,11 +29,14 @@ Install GCC stuff
 
 ## git
 Set your username and email address  
-`git config --global user.name "Andrew Beacock"`
+`git config --global user.name "Andrew Beacock"`  
 `git config --global user.email "email@address"`
 
 Save credentials locally  
 `git config credential.helper store`
+
+## Go
+Install `golang` via Chocolatey
 
 ## vim
 Add to .bash_profile `alias vi=vim`  
