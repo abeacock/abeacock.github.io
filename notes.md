@@ -44,3 +44,7 @@ Install vim-go plugin
 * `git clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go`
 * start vim
 * `:GoInstallBinaries`
+
+## AWS
+Install `awscli` via Chocolatey
+`go get -u github.com/aws/aws-lambda-go/cmd/build-lambda-zip`
