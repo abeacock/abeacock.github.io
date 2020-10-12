@@ -8,7 +8,7 @@ I'm a full stack software engineer with 25 years of software development experie
 
 I've spent a chunk of my career building server-side mobile solutions,and over a decade building secure, fast, scalable web applications for the financial industry. I've now moved into retail to lead & manage a 40-strong development team migrating from a Java e-commerce monolith to polyglot AWS microservices.
 
-I'm passionate about serverless compution, love golang, and have become a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent nearly half of my career working from home!
+I'm passionate about serverless computing, love golang, and have become a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent nearly half of my career working from home!
 
 ### Read my [technical blog](https://blog.andrewbeacock.com)
 
