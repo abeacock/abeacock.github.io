@@ -2,13 +2,13 @@
 title: Andrew Beacock - Software Engineering Manager
 ---
 
-eng mgr / tech lead / full stack / java / agile / security / aws / go
+eng mgr / leader / full stack / java / agile / tdd / security / aws / golang
 
 I'm a full stack software engineer with 25 years of software development experience. I've lead development teams, line-managed people, and solved business problems using my technical skills. Excellent at explaining complex technical issues to non-technical people, I'm a massive fan of using analogies to aid understanding.  I've followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development& pair programming.  I've been coding in Java since it was born back in 1996, but I'm experienced in other languages too.
 
 I've spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry.  I've now moved into retail to lead & manage a 40-strong development team migrating from a large-scale Java e-commerce monolith to polyglot AWS microservices.
 
-I'm passionate about serverless computing, love golang, and have become a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent nearly half of my career working from home!
+I'm passionate about serverless & AWS, love Golang, and have become a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent nearly half of my career working from home!
 
 ### View my [LinkedIn profile](https://www.linkedin.com/in/andrewbeacock/)
 
