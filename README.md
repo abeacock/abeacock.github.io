@@ -1,4 +1,5 @@
-## Andrew Beacock - Engineering Manager
-eng mgr / tech lead / full stack / java / agile / security / aws
+## Andrew Beacock - Head of Engineering
+
+eng mgr / leader / full stack / java / agile / tdd / security / aws / go
 
 [View my website](https://www.andrewbeacock.com)
