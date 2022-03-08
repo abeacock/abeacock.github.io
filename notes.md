@@ -10,7 +10,7 @@ In an administrative Powershell console:
 Then from the same console run:  
 `choco install chocolateygui`
 
-To import an existing chocolatey.config file:
+To import an existing chocolatey.config file:  
 `choco install chocolatey.config`
 
 ## msys2
