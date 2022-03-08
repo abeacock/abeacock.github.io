@@ -8,7 +8,7 @@ I'm the CTO of [Guidr.legal](https://guidr.legal/), a legaltech startup focused 
 
 I've followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I've been coding in Java since it was born back in 1996, but I'm experienced in other languages too.
 
-I've spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I've lead & managed a 40-strong development team migrating from a large-scale Java e-commerce monolith to polyglot AWS microservices, was Head of Engineering for a PropTech scale-up, and now I'm here at Guidr as CTO.
+I've spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I've lead & managed a 40-strong development team migrating from a large-scale Java e-commerce monolith to polyglot AWS microservices, was Head of Engineering for a PropTech scale-up, and now I'm here at Guidr.
 
 I'm passionate about serverless & cloud computing and I'm a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent over half of my career working from home in the UK!
 
