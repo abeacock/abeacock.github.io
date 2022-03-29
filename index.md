@@ -2,7 +2,7 @@
 title: Andrew Beacock - CTO
 ---
 
-cto / mgr / leader / full stack / java / agile / tdd / security / aws
+cto / mgr / leader / full stack / java / agile / tdd / security / cloud
 
 I'm the CTO of [Guidr.legal](https://guidr.legal/), a legaltech startup focused on the US legal market. I've over 25 years of full stack software development experience including leading development teams, line-managing squads, and solving many business problems using my technical skills. Excellent at building relationships & explaining complex technical issues to non-technical people, I'm a massive fan of using analogies to aid understanding.
 

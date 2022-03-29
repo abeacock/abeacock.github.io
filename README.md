@@ -1,5 +1,5 @@
-## Andrew Beacock - Head of Engineering
+## Andrew Beacock - CTO
 
-eng mgr / leader / full stack / java / agile / tdd / security / aws / go
+cto / mgr / leader / full stack / java / agile / tdd / security / cloud
 
 [View my website](https://www.andrewbeacock.com)
