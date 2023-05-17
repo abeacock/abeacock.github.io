@@ -13,26 +13,6 @@ Then from the same console run:
 To import an existing chocolatey.config file:  
 `choco install chocolatey.config`
 
-## msys2
-
-Install `msys2` via Chocolatey
-Set Windows environment variable: `MSYS2_PATH_TYPE=inherit`  
-Goto `C:\tools\msys64` and run `msys2.exe`
-
-- Update installed packages `pacman -Syu`
-- Searching for packages `pacman -Ss _package_`
-- Installing a package `pacman -S _package_`
-
-Install GCC stuff  
-`pacman -S mingw-w64-x86_64-toolchain`
-
-## Ansible
-
-- [Ansible on Windows msys2 script](https://gist.github.com/DaveB93/db94a6b310e08c928c0778f766562ab0#file-python3-install-ansible-on-msys2-sh)
-- [Update Powershell & .NET framework](https://docs.ansible.com/ansible/latest/user_guide/windows_setup.html#upgrading-powershell-and-net-framework)
-- create `/etc/ansible/hosts` and add `localhost`
-- `ansible all -m ping`
-
 ## git
 
 Set your username and email address  
@@ -46,10 +26,6 @@ Reset local to be same as remote
 `git fetch origin`
 `git reset --hard origin/master`
 
-## Go
-
-Install `golang` via Chocolatey
-
 ## vim
 
 Add to .bash_profile `alias vi=vim`  
@@ -58,8 +34,3 @@ Install vim-go plugin
 - `git clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go`
 - start vim
 - `:GoInstallBinaries`
-
-## AWS
-
-Install `awscli` via Chocolatey
-`go get -u github.com/aws/aws-lambda-go/cmd/build-lambda-zip`

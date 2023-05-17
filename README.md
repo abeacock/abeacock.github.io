@@ -1,5 +1,5 @@
 ## Andrew Beacock - CTO
 
-cto / mgr / leader / full stack / java / agile / tdd / security / cloud
+startup cto / eng mgr / tech leader
 
 [View my website](https://www.andrewbeacock.com)
