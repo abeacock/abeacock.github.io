@@ -1,16 +1,18 @@
 ---
-title: Andrew Beacock - CTO
+title: Andrew Beacock
 ---
 
-startup cto / eng mgr / tech leader
+startup/scaleup CTO | Head of Engineering | Technical Leadership
 
-I'm the CTO of [Aturna](https://aturna.legal/), a legaltech startup focused on the US legal market. I've over 25 years of full stack software development experience including leading development teams, line-managing squads, and solving many business problems using my technical skills. Excellent at building relationships & explaining complex technical issues to non-technical people, I'm a massive fan of using analogies to aid understanding.
 
-I've followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I've been coding in Java since it was born back in 1996, but I'm experienced in other languages too.
+As a senior engineering leader, I’ve nearly 30 years of software development experience including leading development teams, line-managing squads, and solving many varied business problems using my technical skills. Excellent at building relationships and communicating effectively as well as explaining complex technical issues to non-technical people, I’m a massive fan of using analogies to aid understanding.
 
-I've spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I've lead & managed a 40-strong development team migrating from a large-scale Java e-commerce monolith to polyglot AWS microservices, was Head of Engineering for a PropTech scale-up, and now I'm here at Aturna.
+I’ve followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I’ve spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I led & managed a 40-strong development team at Very migrating a massive e-commerce monolith to microservices, was Head of Engineering for a PropTech scaleup, and I’m currently CTO for a LegalTech startup.
 
-I'm passionate about serverless & cloud computing and was a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent over half of my career working from home in the UK!
+I'm passionate about hiring, onboarding & growing tech teams, supporting my engineers development as well as providing technical leadership, mentoring & coaching on software development best practices. I love serverless & cloud computing and was a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent half of my career working from home!
+
+I’ve been fortunate enough to have been a guest on several live webinars over the last few years.  I love being able to share my passion for hiring and growing teams, engineering leadership and management, remote working, and personal brand. For details and links to the recordings please see the ‘Featured’ section on my LinkedIn profile.
+
 
 ### View my [LinkedIn profile](https://www.linkedin.com/in/andrewbeacock/)
 
