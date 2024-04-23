@@ -1,10 +1,7 @@
 ---
 title: Andrew Beacock
+subtitle: Startup/Scaleup CTO \| Head of Engineering \| Technical Leadership
 ---
-
-Startup/Scaleup CTO \| Head of Engineering \| Technical Leadership
-
-
 As a senior engineering leader, I’ve nearly 30 years of software development experience including leading development teams, line-managing squads, and solving many varied business problems using my technical skills. Excellent at building relationships and communicating effectively as well as explaining complex technical issues to non-technical people, I’m a massive fan of using analogies to aid understanding.
 
 I’ve followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I’ve spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I led & managed a 40-strong development team at Very migrating a massive e-commerce monolith to microservices, was Head of Engineering for a PropTech scaleup, and I’m currently CTO for a LegalTech startup.
