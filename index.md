@@ -2,7 +2,7 @@
 title: Andrew Beacock
 ---
 
-startup/scaleup CTO | Head of Engineering | Technical Leadership
+Startup/Scaleup CTO \| Head of Engineering \| Technical Leadership
 
 
 As a senior engineering leader, I’ve nearly 30 years of software development experience including leading development teams, line-managing squads, and solving many varied business problems using my technical skills. Excellent at building relationships and communicating effectively as well as explaining complex technical issues to non-technical people, I’m a massive fan of using analogies to aid understanding.
