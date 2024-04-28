@@ -10,6 +10,7 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 
 I’ve been fortunate enough to have been a guest on several live webinars over the last few years.  I love being able to share my passion for hiring and growing teams, engineering leadership and management, remote working, and personal brand. For details and links to the recordings please see the ‘Featured’ section on my LinkedIn profile.
 
+### Read my [CV / Resume](/cv)
 
 ### View my [LinkedIn profile](https://www.linkedin.com/in/andrewbeacock/)
 
