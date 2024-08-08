@@ -12,6 +12,8 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 ## Interim Head of Engineering – [Fuzzy Labs](https://www.fuzzylabs.ai/) (Manchester)
 ### July 2024 to present (contract)
 
+* "you're officially having more impact in the course of a week than your predecessor had in 4 months" - Matt Squire (CTO) of Fuzzy Labs
+
 ---
 ## Chief Technology Officer – [Aturna LLC](https://aturna.legal/) (remote)
 ### February 2022 to June 2024
