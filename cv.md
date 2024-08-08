@@ -11,8 +11,12 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 I’ve been fortunate enough to have been a guest on several live webinars over the last few years.  I love being able to share my passion for hiring and growing teams, engineering leadership and management, remote working, and personal brand. For details and links to the recordings please see the ‘Featured’ section on my LinkedIn profile.
 
 ---
+## Interim Head of Engineering – Fuzzy Labs (Manchester)
+### July 2024 to present (contract)
+
+---
 ## CTO – Aturna LLC (remote)
-### February 2022 to present
+### February 2022 to June 2024
 
 Responsible for all aspects of technology, engineering & product at Aturna. We’ve built a client-facing US legal services platform currently offering affordable wills, powers of attorney and health care proxies, backed by lawyers.
 
@@ -34,7 +38,7 @@ Following agile product development methodologies (utilising JIRA’s Kanban boa
 * Added Microsoft Clarity for click tracking, hot spots & rage clicks to support a data-driven product roadmap
 
 ---
-## Head of Engineering – Canopy (remote)
+## CTO – Canopy (remote)
 ### March 2021 to February 2022
 
 Responsible for all aspects of engineering at Canopy, a FinTech scaleup, from roadmap & strategic planning, quarterly OKR goals as well as day-to-day engineering management. Leadership of two off-shore outsourced teams and a small UK remote engineering team (total of 20 developers). I perform weekly 1-2-1s with my small UK team, I run a cross- team daily standup to ensure alignment across the teams as well wearing many other hats due to us being a scaleup.
