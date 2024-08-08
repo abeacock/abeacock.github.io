@@ -1,21 +1,21 @@
 ---
 title: Andrew Beacock
-subtitle: Startup/Scaleup CTO | Head of Engineering | Technical Leadership
+subtitle: Startup/Scaleup CTO | Fractional CTO | Tech Consultancy
 ---
 As a senior engineering leader, I’ve nearly 30 years of software development experience including leading development teams, line-managing squads, and solving many varied business problems using my technical skills. Excellent at building relationships and communicating effectively as well as explaining complex technical issues to non-technical people, I’m a massive fan of using analogies to aid understanding.
 
-I’ve followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I’ve spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I led & managed a 40-strong development team at Very migrating a massive e-commerce monolith to microservices, was Head of Engineering for a PropTech scaleup, and I’m currently CTO for a LegalTech startup.
+I’ve followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I’ve spent a chunk of my career building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I led & managed a 40-strong development team at Very migrating a massive e-commerce monolith to microservices, was CTO for a PropTech scaleup, then CTO for a LegalTech startup and now I'm working in the ML/AI space at Fuzzy Labs.
 
 I'm passionate about hiring, onboarding & growing tech teams, supporting my engineers development as well as providing technical leadership, mentoring & coaching on software development best practices. I love serverless & cloud computing and was a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent half of my career working from home!
 
 I’ve been fortunate enough to have been a guest on several live webinars over the last few years.  I love being able to share my passion for hiring and growing teams, engineering leadership and management, remote working, and personal brand. For details and links to the recordings please see the ‘Featured’ section on my LinkedIn profile.
 
 ---
-## Interim Head of Engineering – Fuzzy Labs (Manchester)
+## Interim Head of Engineering – [Fuzzy Labs](https://www.fuzzylabs.ai/) (Manchester)
 ### July 2024 to present (contract)
 
 ---
-## CTO – Aturna LLC (remote)
+## Chief Technology Officer – [Aturna LLC](https://aturna.legal/) (remote)
 ### February 2022 to June 2024
 
 Responsible for all aspects of technology, engineering & product at Aturna. We’ve built a client-facing US legal services platform currently offering affordable wills, powers of attorney and health care proxies, backed by lawyers.
@@ -38,7 +38,7 @@ Following agile product development methodologies (utilising JIRA’s Kanban boa
 * Added Microsoft Clarity for click tracking, hot spots & rage clicks to support a data-driven product roadmap
 
 ---
-## CTO – Canopy (remote)
+## Chief Technology Officer – [Canopy](https://canopy.rent/) (remote)
 ### March 2021 to February 2022
 
 Responsible for all aspects of engineering at Canopy, a FinTech scaleup, from roadmap & strategic planning, quarterly OKR goals as well as day-to-day engineering management. Leadership of two off-shore outsourced teams and a small UK remote engineering team (total of 20 developers). I perform weekly 1-2-1s with my small UK team, I run a cross- team daily standup to ensure alignment across the teams as well wearing many other hats due to us being a scaleup.
@@ -57,7 +57,7 @@ The platform is a microservice-based architecture (60 microservices) running in 
 * Turned the release culture around from broken chaotic releases to multiple releases a week with no issues
 
 ---
-## Software Engineering Manager – The Very Group Ltd. (mostly remote)
+## Software Engineering Manager – [The Very Group](https://www.very.co.uk/) (mostly remote)
 ### January 2020 to March 2021
 
 Responsible for the 40+ frontend & backend engineers who develop and maintain the Very.co.uk website and Android & iOS apps, as well as Littlewoods & Littlewoods Ireland websites & apps. Working in the 'Spotify model' of tribes & squads I had 8 direct reports (6 squad leads and 2 tech leads). Operating at a tribe level, I fed into the tech & product roadmaps for the tribe, working closely with the chief architect, Head of Product and Head of Delivery.
@@ -82,7 +82,7 @@ cause on day 2, got full solution mapped out on day 3, and was in production and
 * Founding member & now sole organiser of the Liverpool Tech Talks meetup group
 
 ---
-## Senior Software Engineer / Team Leader – Hansard International Ltd. (remote)
+## Senior Software Engineer / Team Leader – [Hansard International](https://www.hansard.com/) (remote)
 ### May 2008 to December 2019
 
 Led a team of five senior developers responsible for the design, development & deployment of award-winning financial web applications, allowing clients & brokers to self-manage their life assurance policies and perform fund management. Good at analysing incomplete requirements and working closely with numerous departments to ensure the applications fulfil the needs of the business. Excellent at explaining complex technical issues to non-technical people and communicating effectively whilst being home-based. Extremely comfortable managing my workload & priorities having worked remotely for over a decade (Hansard are based on the Isle of Man).
