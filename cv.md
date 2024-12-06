@@ -1,12 +1,12 @@
 ---
 title: Andrew Beacock
-subtitle: Startup/Scaleup CTO | Fractional CTO | Tech Consultancy
+subtitle: Startup CTO | Tech Consultancy | Coder | Engineering Leadership
 ---
-As a senior engineering leader, I’ve nearly 30 years of software development experience including leading development teams, line-managing squads, and solving many varied business problems using my technical skills. Excellent at building relationships and communicating effectively as well as explaining complex technical issues to non-technical people, I’m a massive fan of using analogies to aid understanding.
+I’m a hands-on, pragmatic engineering leader, with 30 years of software development experience including leading development teams, line-managing squads, and solving many varied business problems using my technical skills. Excellent at stakeholder management, building relationships and communicating effectively as well as explaining complex technical issues to non-technical people, I’m a massive fan of using analogies to aid understanding.
 
-I’ve followed waterfall, agile and everything-in-between methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I spent a decade building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I led & managed a 50-strong development team at Very migrating their massive e-commerce monolith to microservices, was CTO for a PropTech scaleup, then CTO for a LegalTech startup and now I'm working in the AI space at Fuzzy Labs.
+I’ve coded in Java since it was launched in 1996, but have used a wide range of different languages for fullstack development. I’ve practiced waterfall, XP & agile methodologies, as well as being an advocate of unit testing, test driven development & pair programming. I spent a decade building telecoms carrier-grade resilient server-side mobile solutions, and over a decade building secure, fast, scalable web applications for the financial industry. I led & managed a 50-strong development team at Very migrating their massive e-commerce monolith to microservices, was CTO for a PropTech scaleup, then CTO for a LegalTech startup and now I'm working with AI & ML at Fuzzy Labs.
 
-I'm passionate about hiring, onboarding & growing tech teams, supporting my engineers development as well as providing technical leadership, mentoring & coaching on software development best practices. I love serverless & cloud computing and was a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent half of my career working from home!  I’m active in the North West meetup scene, and I’ve been fortunate enough to have been a guest on a number of panels and several live webinars over the last few years. (For details and links to the recordings please see the [‘Featured’ section](https://www.linkedin.com/in/andrewbeacock/#featured) on my LinkedIn profile.)
+I'm passionate about hiring, onboarding & growing tech teams, supporting my engineers development as well as providing technical leadership, mentoring & coaching on software development best practices. I love serverless & cloud computing (both AWS & GCP) and was a member of OWASP to help promote secure coding practices. Extremely comfortable working remotely having spent half of my career working from home! I’m active in the North West meetup scene, and I’ve been fortunate enough to have been a guest on a number of panels and several live webinars over the last few years. (For details of the recordings please see the [‘Featured’ section](https://www.linkedin.com/in/andrewbeacock/#featured) on my LinkedIn profile.)
 
 ---
 ## Interim Head of Engineering – [Fuzzy Labs](https://www.fuzzylabs.ai/) (Manchester)
@@ -14,17 +14,24 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 
 * "you're officially having more impact in the course of a week than your predecessor had in 4 months" - Matt Squire (CTO) of Fuzzy Labs
 
+
+Fuzzy Labs are an AI/ML consultancy, working on a number of public and private sector AI projects. Responsible for the 10-strong engineering team, from team management, project resourcing as well as ensuring high quality technology solutions. Responsible for client project communications including sprint demos, presentations & discovery workshops.
+
+* "You're officially having more impact in the course of a week than your predecessor had in 4 months" - Matt Squire (CTO) of Fuzzy Labs
+* Reduced the number of regular update meetings to increase the blocks of deep focus work for the engineers
+* Took over the project administration from the Tech Leads to unblock them so they could do solid technical work
+* Managed the successful delivery of projects and presented project updates and sprint demos to large client teams
+* Firm knowledge of AI/ML concepts including large language models (LLMs), chunking & embeddings, vector databases & vector search, RAG, re-ranking & hybrid search - the building blocks of creating AI-powered solutions.
+
 ---
 ## Chief Technology Officer – [Aturna LLC](https://aturna.legal/) (remote)
 ### February 2022 to June 2024
 
-Responsible for all aspects of technology, engineering & product at Aturna. We’ve built a client-facing US legal services platform currently offering affordable wills, powers of attorney and health care proxies, backed by lawyers.
+Responsible for all aspects of technology, engineering & product at Aturna. We’ve built a client-facing US legal services platform currently offering affordable wills, powers of attorney and health care proxies, backed by lawyers.  
 
-The engineering team are based in the UK, but the rest of the company are in the US, most in upstate New York, so I’m very familiar with communicating and collaborating remotely with teams spread across time zones.
+The engineering team are based in the UK, but the rest of the company are in the US, most in upstate New York, so I’m very familiar with communicating and collaborating remotely with teams spread across time zones.  The platform runs on GCP with a React/Typescript frontend, Scala/Akka backend and a Postgres database. We use Cloud Run & Pub/Sub services (IaC via Terraform), Firebase for frontend hosting & auth and Stripe for card payments. 
 
-The platform runs on GCP with a React/Typescript frontend, Scala/Akka backend and a Postgres database. We use Cloud Run & Pub/Sub services (IaC via Terraform), Firebase for frontend hosting & auth and Stripe for card payments.
-
-Following agile product development methodologies (utilising JIRA’s Kanban board) we perform releases at least weekly, with a very high confidence level due to PR code reviews, extensive unit, integration, and end-to-end tests - we’ve had just a couple of minor post-release issues in the last two years.
+Following agile product development methodologies we perform weekly releases, with a very high confidence level due to PR code reviews, extensive unit, integration, and end-to-end tests - we’ve had just a couple of minor post-release issues in the last two years.
 
 * Took sole responsibility of the entire GitHub-based codebase & platform in less than 6 weeks of starting due to the outsourced team being rolled off, hired two excellent engineers within the first month.
 * Defined annual technical strategy and quarterly goals, as well as being responsible for the product roadmap
@@ -35,7 +42,6 @@ Following agile product development methodologies (utilising JIRA’s Kanban boa
 * Streamlined the CircleCI-based build/deployment process to speed up deployments and reduce risks
 * Setup proactive monitoring & alerting via GCP & Slack to ensure early warning about potential issues
 * Introduced Sleuth for release tracking, notifications, and DORA metrics (frequency, lead time, failure rate, MTTR)
-* Added Microsoft Clarity for click tracking, hot spots & rage clicks to support a data-driven product roadmap
 
 ---
 ## Chief Technology Officer – [Canopy](https://canopy.rent/) (remote)
@@ -46,10 +52,10 @@ Responsible for all aspects of engineering at Canopy, a FinTech scaleup, from ro
 The platform is a microservice-based architecture (60 microservices) running in AWS, written in TypeScript, JavaScript and React Native. Hosted in GitHub, built via CircleCI & AWS CodePipeline. Our data lake is hosted in GCP with BigQuery, and reports & dashboards built in Metabase.
 
 * Defined Q2’s Tech OKRs in my third week
-* Hired a UAT QA engineer in my first month to ‘own’ quality and ensure consistent testing approaches across teams l Improved communication & sharing in the morning standup by showing empathy and a ‘no blame’ culture
+* Hired a UAT QA engineer in my first month to ‘own’ quality and ensure consistent testing approaches across teams
+* Improved communication & sharing in the morning standup by showing empathy and a ‘no blame’ culture
 * Increased collaboration between outsourced teams with shared presentations, joint architecture workshops
 * Decreased release risk by encouraging better deployment planning and release communications
-* Introduced sprint retros for one of the teams (the other already did them)
 * Smashed our Q2 OKRs including cost saving on AWS (target: 5% → actual: 25%)
 * Added monitoring and alerting to the AWS estate to ensure early warning of potential issues
 * NFT environment built and load tested to ensure capacity and growth
@@ -64,22 +70,15 @@ Responsible for the 40+ frontend & backend engineers who develop and maintain th
 
 Very were in the process of migrating from a large legacy java-based e-commerce monolith (Oracle ATG on WebLogic) to AWS-based polyglot microservices: Java (Spring Boot) & Golang backend services with React & Node.js micro- frontends. Using numerous AWS services including ECR & ECS, Lambda, DynamoDB, EventBridge, AppMesh & Fargate. Code is stored in BitBucket (Git) and services are deployed via CI/CD pipelines using Jenkins.
 
-* Established a skills matrix and created performance documents for each developer, set up 1-2-1s with my directs
 * Worked with UX & performance teams to ensure an aligned 'organic migration' tech roadmap - 'little & often'
 * Worked with another tribe's Head of Tech to review company tech career ladder, writing job descriptions & adverts
 * Interview feedback: “he said the whole process has been one of the best he has been involved in & really enjoyable”
 * Turned our 'new starter' onboarding process around from a few days to a few hours (kit setup, network access, etc.)
-* Contractor onboarding feedback - “well to be fair its been the smoothest onboarding so far, and I've been on a few, good goal to aspire towards hopefully that's some reassurance that you guys are going the right way!”
-* Formed a working group to ensure a better developer experience: high powered laptops, full admin rights, etc.
 * Pushed production support down to the squads to ensure that root causes could be investigated and fixed
 * Organised a multi-disiplined team to investigate two key problem areas that had existed for over 3 weeks, found the
 cause on day 2, got full solution mapped out on day 3, and was in production and resolved on day 4
 * Reduced the time taken to log and submit engineer on-call & overtime claims from hours to a few minutes
 * Direct report feedback - “To be honest you have done more in this space than 3 previous managers combined”
-* Internal recuitment team feedback - “Andrew was really sharp at coming back on feedback within 24 hours on workable, and allowing us to schedule in 30 min intro interviews directly into his calendar, which gives candidates a great experience. X was hired within 2 weeks as a result of this.”
-* Researched & introduced MS Teams 'Shifts' for the whole tribe to track holidays, days off, self-isolation, sickness
-* Created screencasts to detail the process of setting up Shifts, these have since been shared with the whole company
-* Founding member & now sole organiser of the Liverpool Tech Talks meetup group
 
 ---
 ## Senior Software Engineer / Team Leader – [Hansard International](https://www.hansard.com/) (remote)
