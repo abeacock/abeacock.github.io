@@ -12,7 +12,7 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 
 ### View my [LinkedIn profile](https://www.linkedin.com/in/andrewbeacock/)
 
-### Read my [technical blog](https://blog.andrewbeacock.com)
+### Read my [technical blog](https://blog.andrewbeacock.com) (no longer updated, I post on LinkedIn now)
 
 ### Follow me on Twitter [@abeacock](https://twitter.com/abeacock)
 
