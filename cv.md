@@ -12,9 +12,6 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 ## Interim Head of Engineering – [Fuzzy Labs](https://www.fuzzylabs.ai/) (Manchester)
 ### July 2024 to present (contract)
 
-* "you're officially having more impact in the course of a week than your predecessor had in 4 months" - Matt Squire (CTO) of Fuzzy Labs
-
-
 Fuzzy Labs are an AI/ML consultancy, working on a number of public and private sector AI projects. Responsible for the 10-strong engineering team, from team management, project resourcing as well as ensuring high quality technology solutions. Responsible for client project communications including sprint demos, presentations & discovery workshops.
 
 * "You're officially having more impact in the course of a week than your predecessor had in 4 months" - Matt Squire (CTO) of Fuzzy Labs
