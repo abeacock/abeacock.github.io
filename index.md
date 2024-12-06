@@ -14,8 +14,6 @@ I'm passionate about hiring, onboarding & growing tech teams, supporting my engi
 
 ### Read my [technical blog](https://blog.andrewbeacock.com) (no longer updated, I post on LinkedIn now)
 
-### Follow me on Twitter [@abeacock](https://twitter.com/abeacock)
-
 ### Email me <info@andrewbeacock.com>
 
 <br/><small>I'm hosting this website via my [GitHub repository](https://github.com/abeacock/), if you want to do the same then simply [follow these instructions](https://pages.github.com/). The site is written in [GitHub-flavoured Markdown](https://guides.github.com/features/mastering-markdown/), edited using the excellent & free [VS Code](https://code.visualstudio.com/) with it's live Markdown preview & Git integration.</small>
