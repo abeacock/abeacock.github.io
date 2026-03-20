@@ -1,5 +1,3 @@
-# Claude Code
-
 ## Slide 1: Claude Code
 
   * **Title**: Claude Code
