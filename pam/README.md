@@ -1,3 +1,8 @@
+---
+title: Claude Code
+subtitle: Setup instructions for Claude Code using AWS Bedrock
+---
+
 ## Slide 1: Claude Code
 
   * **Title**: Claude Code
