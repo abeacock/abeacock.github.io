@@ -17,8 +17,8 @@ subtitle: Setup instructions for Claude Code using AWS Bedrock
 
   * **Title**: aws configure sso
   * **Content**:
-      * SSO session name (Recommended): `abeacock-sso`
-      * SSO start URL: `https://ssoins-753561e08f8b016a.portal.eu-west-2.app.aws/#`
+      * SSO session name (Recommended): `USERNAME-sso`
+      * SSO start URL: `START_URL_FROM_ACCESS_KEYS`
       * SSO region: `eu-west-2`
       * SSO registration scopes: `[sso:account:access]`
       * Processing…
@@ -30,11 +30,11 @@ subtitle: Setup instructions for Claude Code using AWS Bedrock
       * Choose the Test environment account
       * Default client Region: `eu-west-2`
       * CLI default output format (json if not specified): (None specified)
-      * Profile name: `abeacock-sso`
+      * Profile name: `USERNAME-sso`
 
-## Slide 5: aws sso login --profile=abeacock-sso
+## Slide 5: aws sso login --profile=USERNAME-sso
 
-  * **Title**: aws sso login --profile=abeacock-sso
+  * **Title**: aws sso login --profile=USERNAME-sso
   * **Content**: (No content)
 
 ## Slide 6: Install Claude Code
@@ -63,10 +63,10 @@ subtitle: Setup instructions for Claude Code using AWS Bedrock
 
 ``` json
 {
-  "awsAuthRefresh": "aws sso login --profile abeacock-sso",
+  "awsAuthRefresh": "aws sso login --profile USERNAME-sso",
   "env": {
    "CLAUDE_CODE_USE_BEDROCK": "1",
-   "AWS_PROFILE": "abeacock-sso",
+   "AWS_PROFILE": "USERNAME-sso",
    "AWS_REGION": "eu-west-2",
    "ANTHROPIC_DEFAULT_OPUS_MODEL": "eu.anthropic.claude-opus-4-6-v1",
    "ANTHROPIC_DEFAULT_SONNET_MODEL": "eu.anthropic.claude-sonnet-4-6",
