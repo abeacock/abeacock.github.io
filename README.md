@@ -1,5 +1,5 @@
 ## Andrew Beacock - CTO
 
-startup cto / eng mgr / tech leader
+Tech Consultant & Fractional CTO
 
 [View my website](https://www.andrewbeacock.com)
